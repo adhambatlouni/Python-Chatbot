@@ -72,7 +72,3 @@ python-chatbot/
 - Python 3
 - Console I/O
 - Good vibes 🎉
-
-## 📜 License
-
-MIT License — feel free to use and modify!
